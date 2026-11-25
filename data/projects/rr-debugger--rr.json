@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Record and replay debugger for deterministic reverse engineering.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "rr",
+  "url": "https://github.com/rr-debugger/rr"
+}

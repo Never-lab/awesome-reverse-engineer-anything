@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Automatically extracts obfuscated strings from malware binaries.",
+  "group": "Binary and Firmware Inspection",
+  "name": "FLOSS",
+  "url": "https://github.com/mandiant/flare-floss"
+}

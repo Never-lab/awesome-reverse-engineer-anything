@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Memory forensics framework for analyzing captured system memory.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "Volatility 3",
+  "url": "https://github.com/volatilityfoundation/volatility3"
+}

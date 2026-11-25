@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Toolkit for reverse engineering and fuzzing Protobuf-based apps.",
+  "group": "Network and API Capture",
+  "name": "pbtk",
+  "url": "https://github.com/marin-m/pbtk"
+}

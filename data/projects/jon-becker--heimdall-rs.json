@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "EVM smart-contract bytecode analysis and decompilation toolkit written in Rust.",
+  "group": "Decompilers and Disassemblers",
+  "name": "heimdall-rs",
+  "url": "https://github.com/Jon-Becker/heimdall-rs"
+}

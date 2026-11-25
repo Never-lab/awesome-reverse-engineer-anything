@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Library to parse, modify and abstract ELF, PE, Mach-O and related formats.",
+  "group": "Binary and Firmware Inspection",
+  "name": "LIEF",
+  "url": "https://github.com/lief-project/LIEF"
+}

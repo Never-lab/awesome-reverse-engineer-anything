@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Modern Java bytecode editor for reverse engineering class files.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Recaf",
+  "url": "https://github.com/Col-E/Recaf"
+}

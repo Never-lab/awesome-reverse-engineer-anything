@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Front-end reverse engineering tool for Linux built around GDB.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "PINCE",
+  "url": "https://github.com/korcankaraokcu/PINCE"
+}

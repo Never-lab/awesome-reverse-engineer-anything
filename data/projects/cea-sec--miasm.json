@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Python reverse engineering framework for disassembly, emulation and symbolic analysis.",
+  "group": "Decompilers and Disassemblers",
+  "name": "miasm",
+  "url": "https://github.com/cea-sec/miasm"
+}

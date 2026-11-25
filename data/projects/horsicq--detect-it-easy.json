@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "File type, packer and compiler detector for Windows, Linux and macOS.",
+  "group": "Binary and Firmware Inspection",
+  "name": "Detect It Easy",
+  "url": "https://github.com/horsicq/Detect-It-Easy"
+}

@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Physical memory introspection framework written in Rust.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "memflow",
+  "url": "https://github.com/memflow/memflow"
+}

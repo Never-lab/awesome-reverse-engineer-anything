@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Rust-oriented decompiler built on angr that recovers enums, match and macros.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Oxidizer",
+  "url": "https://github.com/sefcom/oxidizer"
+}

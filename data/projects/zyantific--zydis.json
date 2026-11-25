@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Fast x86 and x86-64 disassembler and code generation library.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Zydis",
+  "url": "https://github.com/zyantific/zydis"
+}

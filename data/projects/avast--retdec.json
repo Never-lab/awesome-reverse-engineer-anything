@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Retargetable machine-code decompiler based on LLVM.",
+  "group": "Decompilers and Disassemblers",
+  "name": "RetDec",
+  "url": "https://github.com/avast/retdec"
+}

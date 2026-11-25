@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Cross-platform ELF, PE and Mach-O parsing library written in Rust.",
+  "group": "Binary and Firmware Inspection",
+  "name": "goblin",
+  "url": "https://github.com/m4b/goblin"
+}

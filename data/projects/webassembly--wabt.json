@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "WebAssembly Binary Toolkit for inspecting and converting Wasm modules.",
+  "group": "Binary and Firmware Inspection",
+  "name": "WABT",
+  "url": "https://github.com/WebAssembly/wabt"
+}

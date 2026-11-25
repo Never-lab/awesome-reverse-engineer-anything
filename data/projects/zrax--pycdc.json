@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "C++ Python bytecode disassembler and decompiler.",
+  "group": "Decompilers and Disassemblers",
+  "name": "pycdc",
+  "url": "https://github.com/zrax/pycdc"
+}

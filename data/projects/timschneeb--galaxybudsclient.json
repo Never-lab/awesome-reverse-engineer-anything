@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "hardware",
+  "description": "Unofficial manager that reverse engineers Galaxy Buds protocols.",
+  "group": "Devices and Firmware",
+  "name": "Galaxy Buds Client",
+  "target": "Samsung Galaxy Buds",
+  "url": "https://github.com/timschneeb/GalaxyBudsClient"
+}

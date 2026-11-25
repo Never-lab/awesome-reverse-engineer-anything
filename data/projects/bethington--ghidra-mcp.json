@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Ghidra MCP server that exposes headless and GUI reverse engineering tools to agents.",
+  "group": "AI Agents and MCP",
+  "name": "ghidra-mcp",
+  "url": "https://github.com/bethington/ghidra-mcp"
+}

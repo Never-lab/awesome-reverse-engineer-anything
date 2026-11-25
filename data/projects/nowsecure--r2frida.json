@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Bridge that combines radare2 analysis with Frida instrumentation.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "r2frida",
+  "url": "https://github.com/nowsecure/r2frida"
+}

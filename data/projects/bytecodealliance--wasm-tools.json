@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "CLI and Rust libraries for low-level WebAssembly module inspection and transforms.",
+  "group": "Binary and Firmware Inspection",
+  "name": "wasm-tools",
+  "url": "https://github.com/bytecodealliance/wasm-tools"
+}

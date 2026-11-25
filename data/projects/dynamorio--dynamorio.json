@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Dynamic binary instrumentation platform for runtime analysis.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "DynamoRIO",
+  "url": "https://github.com/DynamoRIO/dynamorio"
+}

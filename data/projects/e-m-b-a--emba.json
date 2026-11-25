@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Firmware security analyzer for embedded Linux images.",
+  "group": "Binary and Firmware Inspection",
+  "name": "EMBA",
+  "url": "https://github.com/e-m-b-a/emba"
+}

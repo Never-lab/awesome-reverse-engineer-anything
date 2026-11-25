@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Stack-trace symbolication library written in Rust.",
+  "group": "Binary and Firmware Inspection",
+  "name": "symbolic",
+  "url": "https://github.com/getsentry/symbolic"
+}

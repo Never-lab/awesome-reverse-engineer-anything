@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Retargetable binary decompiler with interactive analysis.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Reko",
+  "url": "https://github.com/uxmal/reko"
+}

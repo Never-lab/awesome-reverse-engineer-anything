@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Library for reading and writing the DWARF debugging format in Rust.",
+  "group": "Binary and Firmware Inspection",
+  "name": "gimli",
+  "url": "https://github.com/gimli-rs/gimli"
+}

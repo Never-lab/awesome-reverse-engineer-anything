@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Open-source interactive disassembler.",
+  "group": "Decompilers and Disassemblers",
+  "name": "redasm",
+  "url": "https://github.com/redasm-dev/redasm"
+}

@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Exports disassemblies into Protocol Buffers for tool interchange.",
+  "group": "Binary and Firmware Inspection",
+  "name": "BinExport",
+  "url": "https://github.com/google/binexport"
+}

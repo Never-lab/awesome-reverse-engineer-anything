@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "games",
+  "description": "PC port of A Link to the Past rebuilt from the SNES binary.",
+  "group": "Source Ports and Engine Rebuilds",
+  "name": "zelda3",
+  "target": "The Legend of Zelda: A Link to the Past",
+  "url": "https://github.com/snesrev/zelda3"
+}

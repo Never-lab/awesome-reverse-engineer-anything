@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Java bytecode decompiler used inside IntelliJ IDEA.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Fernflower",
+  "url": "https://github.com/JetBrains/fernflower"
+}

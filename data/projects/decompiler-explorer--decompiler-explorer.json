@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Web UI that compares several decompilers on the same binary.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Decompiler Explorer",
+  "url": "https://github.com/decompiler-explorer/decompiler-explorer"
+}

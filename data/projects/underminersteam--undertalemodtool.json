@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "games",
+  "description": "Editor and decompiler for Undertale and related GameMaker data files.",
+  "group": "Source Ports and Engine Rebuilds",
+  "name": "UndertaleModTool",
+  "target": "Undertale / Deltarune",
+  "url": "https://github.com/UnderminersTeam/UndertaleModTool"
+}

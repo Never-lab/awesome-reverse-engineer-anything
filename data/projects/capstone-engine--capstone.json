@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Multi-architecture disassembly framework used by many reverse engineering tools.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Capstone",
+  "url": "https://github.com/capstone-engine/capstone"
+}

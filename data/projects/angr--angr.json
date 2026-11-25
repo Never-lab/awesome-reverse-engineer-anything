@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Binary analysis platform with symbolic execution and decompilation.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "angr",
+  "url": "https://github.com/angr/angr"
+}

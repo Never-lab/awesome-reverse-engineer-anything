@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "GDB Enhanced Features plugin for reverse engineering and exploit work.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "GEF",
+  "url": "https://github.com/hugsy/gef"
+}

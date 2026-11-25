@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "protocols",
+  "description": "CLI that searches and downloads iOS app packages from the App Store.",
+  "name": "ipatool",
+  "target": "App Store IPA downloads",
+  "url": "https://github.com/majd/ipatool"
+}

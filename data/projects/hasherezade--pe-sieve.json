@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Scans a live process and dumps implanted or modified PE modules.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "pe-sieve",
+  "url": "https://github.com/hasherezade/pe-sieve"
+}

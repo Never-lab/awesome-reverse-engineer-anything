@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Instrumentable binary emulation framework across OS and architectures.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "Qiling",
+  "url": "https://github.com/qilingframework/qiling"
+}

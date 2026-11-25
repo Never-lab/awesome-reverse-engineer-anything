@@ -136,7 +136,7 @@ class Readme(unittest.TestCase):
         self.assertIn("- [Tools](#tools)", first)
         self.assertNotIn("## Apps", first)
         self.assertIn("- [Star History](#star-history)", first)
-        self.assertIn("api.star-history.com/chart?repos=maluramichael/awesome-reverse-engineer-anything&type=date", first)
+        self.assertIn("api.star-history.com/chart?repos=Never-lab/awesome-reverse-engineer-anything&type=date", first)
         self.assertNotIn("dll-proxy-generator", first)
         self.assertIn("| Last commit | Health |", first)
 

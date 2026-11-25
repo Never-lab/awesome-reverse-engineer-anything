@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Rewrite of the YARA pattern-matching engine in Rust.",
+  "group": "Binary and Firmware Inspection",
+  "name": "YARA-X",
+  "url": "https://github.com/VirusTotal/yara-x"
+}

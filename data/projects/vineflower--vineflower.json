@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Modern Java decompiler focused on accurate, readable output.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Vineflower",
+  "url": "https://github.com/Vineflower/vineflower"
+}

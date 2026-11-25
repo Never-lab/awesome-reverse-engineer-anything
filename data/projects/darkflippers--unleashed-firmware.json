@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "hardware",
+  "description": "Community Flipper Zero firmware with unlocked research features.",
+  "group": "Devices and Firmware",
+  "name": "Unleashed Firmware",
+  "target": "Flipper Zero",
+  "url": "https://github.com/DarkFlippers/unleashed-firmware"
+}

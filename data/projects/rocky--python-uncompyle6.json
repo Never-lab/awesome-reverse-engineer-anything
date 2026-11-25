@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Cross-version Python bytecode decompiler.",
+  "group": "Decompilers and Disassemblers",
+  "name": "uncompyle6",
+  "url": "https://github.com/rocky/python-uncompyle6"
+}

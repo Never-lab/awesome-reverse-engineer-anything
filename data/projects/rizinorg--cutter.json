@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Free reverse engineering desktop platform powered by Rizin.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Cutter",
+  "url": "https://github.com/rizinorg/cutter"
+}

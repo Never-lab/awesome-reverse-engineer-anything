@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Ghidra decompiler and Sleigh disassembler integration for Rizin.",
+  "group": "Decompilers and Disassemblers",
+  "name": "rz-ghidra",
+  "url": "https://github.com/rizinorg/rz-ghidra"
+}

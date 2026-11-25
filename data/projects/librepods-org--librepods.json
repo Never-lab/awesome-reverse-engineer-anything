@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "hardware",
+  "description": "Opens AirPods features outside Apple's ecosystem.",
+  "group": "Devices and Firmware",
+  "name": "LibrePods",
+  "target": "AirPods",
+  "url": "https://github.com/librepods-org/librepods"
+}

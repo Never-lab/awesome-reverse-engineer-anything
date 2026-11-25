@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Native Android decompiler that works without a Java runtime.",
+  "group": "Decompilers and Disassemblers",
+  "name": "GDA",
+  "url": "https://github.com/charles2gan/GDA-android-reversing-Tool"
+}

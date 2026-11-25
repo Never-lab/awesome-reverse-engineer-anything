@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Fast x86 and x64 disassembler, assembler, decoder and encoder written in Rust.",
+  "group": "Decompilers and Disassemblers",
+  "name": "iced",
+  "url": "https://github.com/icedland/iced"
+}

@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "hardware",
+  "description": "Feature-rich custom firmware for the Flipper Zero.",
+  "group": "Devices and Firmware",
+  "name": "Momentum Firmware",
+  "target": "Flipper Zero",
+  "url": "https://github.com/Next-Flip/Momentum-Firmware"
+}

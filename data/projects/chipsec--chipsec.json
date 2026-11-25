@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Platform security assessment framework for firmware and hardware interfaces.",
+  "group": "Binary and Firmware Inspection",
+  "name": "CHIPSEC",
+  "url": "https://github.com/chipsec/chipsec"
+}

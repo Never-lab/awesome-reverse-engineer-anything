@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Tooling to reverse Unity IL2CPP builds back toward managed code.",
+  "group": "Decompilers and Disassemblers",
+  "name": "Cpp2IL",
+  "url": "https://github.com/SamboyCoding/Cpp2IL"
+}

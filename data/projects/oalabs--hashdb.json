@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Lookup database of hashing algorithms used in malware for API resolution.",
+  "exempt": "Small but widely used malware RE helper below the star bar.",
+  "group": "Binary and Firmware Inspection",
+  "name": "hashdb",
+  "url": "https://github.com/OALabs/hashdb"
+}

@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Hypervisor-assisted native debugger for Windows.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "HyperDbg",
+  "url": "https://github.com/HyperDbg/HyperDbg"
+}

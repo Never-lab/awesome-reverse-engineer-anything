@@ -130,6 +130,8 @@ Commercial games turned back into source code or native ports. None of these sho
 | [MacNativeGames](https://github.com/ly05010419/MacNativeGames) | The Legend of Zelda: Tears of the Kingdom, Breath of the Wild | Plays your own copies natively on Apple silicon Mac, iPhone and iPad without an emulator. | 8.3k | 2026-11-25 | 6 |
 | [OpenMW](https://github.com/OpenMW/openmw) | The Elder Scrolls III: Morrowind | Open-world RPG engine that plays Morrowind. | 6.8k | 2026-11-24 | 6 |
 | [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) | The Legend of Zelda: Ocarina of Time | PC port built from the decompilation. | 6.2k | 2026-11-24 | 7 |
+| [zelda3](https://github.com/snesrev/zelda3) | The Legend of Zelda: A Link to the Past | PC port of A Link to the Past rebuilt from the SNES binary. | 5k | 2026-10-02 |  |
+| [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) | Undertale / Deltarune | Editor and decompiler for Undertale and related GameMaker data files. | 2.1k | 2026-11-23 |  |
 | [inFAMOUS Second Son PC port](https://github.com/HayatoG/iss_pc) | inFAMOUS Second Son | Runs the PS4 game's own code natively on Linux and Windows with a reimplemented PS4 system and a Vulkan GPU layer, using your own dump. | 1.2k | 2026-11-25 | 6 |
 | [zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) | The Legend of Zelda: The Minish Cap | Native Nintendo 3DS port built on the Project Picori decompilation, using your own GBA ROM. | 842 | 2026-11-25 | 7 |
 | [NBlood](https://github.com/NBlood/NBlood) | Blood, Redneck Rampage, Powerslave | Reverse engineered ports of Build engine games. | 828 | 2026-11-25 | 6 |
@@ -161,13 +163,17 @@ Open clients and libraries for closed protocols, private APIs and undocumented f
 | --- | --- | --- | ---: | --- | ---: |
 | [OpenHaystack](https://github.com/seemoo-lab/openhaystack) | Apple Find My | Framework for tracking your own Bluetooth devices through the Find My network. | 14.3k | 2026-08-17 | 8 |
 | [DiPlay](https://github.com/shihabal3amri/DiPlay) | Apple CarPlay | Independent CarPlay receiver for compatible Android head units. | 14.2k | 2026-11-24 | 5 |
+| [ipatool](https://github.com/majd/ipatool) | App Store IPA downloads | CLI that searches and downloads iOS app packages from the App Store. | 12.5k | 2026-11-17 |  |
 | [Baileys](https://github.com/WhiskeySockets/Baileys) | WhatsApp Web | Socket-based TypeScript and JavaScript API. | 11.7k | 2026-11-22 | 8 |
 | [OpenDrop](https://github.com/seemoo-lab/opendrop) | Apple AirDrop | Open AirDrop implementation in Python. | 10k | 2026-08-17 | 7 |
 | [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) | iOS device protocols | Cross-platform library to communicate with iOS devices. | 8.4k | 2026-11-25 | 7 |
 | [whatsmeow](https://github.com/tulir/whatsmeow) | WhatsApp Web | Go library for the multidevice API. | 7.9k | 2026-11-24 | 7 |
 | [librespot](https://github.com/librespot-org/librespot) | Spotify | Open source client library. | 7.4k | 2026-11-07 | 7 |
 | [YouTube.js](https://github.com/LuanRT/YouTube.js) | YouTube InnerTube API | JavaScript client for YouTube's internal API. | 5.4k | 2026-11-25 | 7 |
+| [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS firmware and dyld | Swiss-army CLI for researching iOS and macOS firmware, IPSW and dyld caches. | 4k | 2026-11-25 |  |
 | [pypush](https://github.com/JJTech0130/pypush) | APNs, iMessage | Python client for Apple's push service and iMessage. | 3.8k | 2026-03-15 | 8 |
+| [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Apple lockdownd / usbmuxd | Pure Python client for talking to iPhones and other Apple devices. | 3.1k | 2026-11-22 |  |
+| [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat) | Source 2 / VPK | Browses VPK archives and decodes Source 2 resource formats. | 2.6k | 2026-11-25 |  |
 | [Samba](https://github.com/samba-team/samba) | SMB | File and print services for Windows clients. GitHub mirror of the official repository. | 1.2k | 2026-11-25 | 5 |
 | [ShazamIO](https://github.com/shazamio/ShazamIO) | Shazam API | Asynchronous Python library. | 1k | 2026-11-24 | 7 |
 | [uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) | NetEase UU Remote | Unofficial Linux host and experimental viewer for NetEase UU Remote, so the official clients can control a Linux machine. | 955 | 2026-11-25 | 6 |
@@ -196,9 +202,14 @@ Devices, chips and cloud-locked gadgets opened up for local use.
 
 | Project | Rebuilds | What it is | Stars | Last commit | Health |
 | --- | --- | --- | ---: | --- | ---: |
+| [LibrePods](https://github.com/librepods-org/librepods) | AirPods | Opens AirPods features outside Apple's ecosystem. | 31k | 2026-11-09 |  |
+| [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero | Community Flipper Zero firmware with unlocked research features. | 22.9k | 2026-11-25 |  |
 | [Valetudo](https://github.com/Hypfer/Valetudo) | Robot vacuum clouds | Cloud replacement for vacuum robots that enables local-only operation. | 10.1k | 2026-11-21 | 7 |
+| [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware) | Flipper Zero | Feature-rich custom firmware for the Flipper Zero. | 9.4k | 2026-08-18 |  |
+| [IronOS](https://github.com/Ralim/IronOS) | Pinecil and similar irons | Open-source firmware for popular soldering irons. | 8.4k | 2026-11-13 |  |
 | [rtl_433](https://github.com/merbanan/rtl_433) | ISM band devices | Decodes radio transmissions from devices on the ISM bands. | 8k | 2026-11-24 | 7 |
 | [RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | macOS | Turns off Apple Intelligence, analytics and ads on macOS, removes the downloaded models and can undo every change. | 6.3k | 2026-11-25 | 7 |
+| [Galaxy Buds Client](https://github.com/timschneeb/GalaxyBudsClient) | Samsung Galaxy Buds | Unofficial manager that reverse engineers Galaxy Buds protocols. | 5.4k | 2026-11-21 |  |
 | [m1n1](https://github.com/AsahiLinux/m1n1) | Apple Silicon | Bootloader and experimentation playground. | 4.3k | 2026-11-21 | 7 |
 | [opendbc](https://github.com/commaai/opendbc) | Car CAN buses | Python API for your car. | 3.6k | 2026-11-25 | 8 |
 | [dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) | DJI firmware | Tools for handling firmware of DJI products, with a focus on quadcopters. | 2.3k | 2026-11-22 | 8 |
@@ -222,8 +233,10 @@ What people use to take things apart.
 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | Bridges IDA Pro with language models through MCP. | 13.6k | 2026-11-12 | 8 |
 | [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | MCP server for Ghidra. | 12k | 2026-10-10 | 7 |
 | [Universal Modder](https://github.com/rehan-remade/universal-modder) | Skills and tools that let Claude Code mod almost any PC game you own. | 9.9k | 2026-11-25 | 6 |
+| [ghidra-mcp](https://github.com/bethington/ghidra-mcp) | Ghidra MCP server that exposes headless and GUI reverse engineering tools to agents. | 6.4k | 2026-11-25 |  |
 | [reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) | Turns any website into a typed API client, with Claude Code, Codex, Cursor or OpenCode. | 4.3k | 2026-11-21 | 7 |
 | [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | Native x64dbg plugin written in Zig that exposes breakpoints, stepping, memory and registers over MCP so AI assistants can drive the debugger. | 2.9k | 2026-11-25 | 8 |
+| [reagent](https://github.com/Dryxio/reagent) | AI workflow that reconstructs and validates C and C++ code from binaries. | 2.5k | 2026-09-09 |  |
 | [Co-op Anything](https://github.com/cranebeaker/coop-anything) | MCP server and playbook for adding co-op to single-player games with an AI agent. | 2.2k | 2026-11-18 | 4 |
 | [Open ReverseLab](https://github.com/LING71671/open-reverselab) | Agent platform and MCP server for Ghidra, Frida, x64dbg and Rizin. | 1.4k | 2026-11-25 | 7 |
 | [reverify](https://github.com/2akouwu/reverify) | Keeps AI reverse engineering honest: the model proposes, deterministic tools check every claim. | 1.4k | 2026-11-01 | 6 |
@@ -239,10 +252,33 @@ What people use to take things apart.
 | [Apktool](https://github.com/iBotPeaches/Apktool) | Reverse engineers Android APK files. | 27.4k | 2026-11-23 | 8 |
 | [ILSpy](https://github.com/icsharpcode/ILSpy) | Decompiler for .NET with PDB generation and ReadyToRun support. | 27.2k | 2026-11-24 | 8 |
 | [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and command-line toolset. | 25.5k | 2026-11-25 | 7 |
+| [Cutter](https://github.com/rizinorg/cutter) | Free reverse engineering desktop platform powered by Rizin. | 20.3k | 2026-11-23 |  |
+| [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) | Java and Android reverse engineering suite with multiple decompilers. | 15.7k | 2026-10-30 |  |
 | [dnSpyEx](https://github.com/dnSpyEx/dnSpy) | Unofficial revival of the .NET debugger and assembly editor. | 11.5k | 2026-11-21 | 6 |
+| [Capstone](https://github.com/capstone-engine/capstone) | Multi-architecture disassembly framework used by many reverse engineering tools. | 9.2k | 2026-11-25 |  |
+| [RetDec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM. | 8.7k | 2026-05-26 |  |
+| [Recaf](https://github.com/Col-E/Recaf) | Modern Java bytecode editor for reverse engineering class files. | 7.5k | 2026-11-02 |  |
+| [JPEXS FFDec](https://github.com/jindrapetrik/jpexs-decompiler) | Open-source Flash SWF decompiler and editor. | 6.1k | 2026-11-25 |  |
+| [GDA](https://github.com/charles2gan/GDA-android-reversing-Tool) | Native Android decompiler that works without a Java runtime. | 4.9k | 2026-04-10 |  |
+| [pycdc](https://github.com/zrax/pycdc) | C++ Python bytecode disassembler and decompiler. | 4.7k | 2026-04-07 |  |
+| [Fernflower](https://github.com/JetBrains/fernflower) | Java bytecode decompiler used inside IntelliJ IDEA. | 4.5k | 2026-11-25 |  |
+| [Zydis](https://github.com/zyantific/zydis) | Fast x86 and x86-64 disassembler and code generation library. | 4.4k | 2026-11-13 |  |
+| [uncompyle6](https://github.com/rocky/python-uncompyle6) | Cross-version Python bytecode decompiler. | 4.3k | 2026-10-05 |  |
 | [Rizin](https://github.com/rizinorg/rizin) | UNIX-like reverse engineering framework and command-line toolset. | 4.2k | 2026-11-25 | 8 |
+| [miasm](https://github.com/cea-sec/miasm) | Python reverse engineering framework for disassembly, emulation and symbolic analysis. | 4k | 2026-11-03 |  |
+| [iced](https://github.com/icedland/iced) | Fast x86 and x64 disassembler, assembler, decoder and encoder written in Rust. | 3.6k | 2026-11-22 |  |
+| [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | Tooling to reverse Unity IL2CPP builds back toward managed code. | 3.1k | 2026-11-05 |  |
+| [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) | Web UI that compares several decompilers on the same binary. | 2.7k | 2026-11-18 |  |
 | [ASC](https://github.com/MG1937/ASC) | Fast, lightweight Android decompiler for agents and mobile researchers. | 2.7k | 2026-11-25 | 8 |
+| [Reko](https://github.com/uxmal/reko) | Retargetable binary decompiler with interactive analysis. | 2.6k | 2026-11-23 |  |
+| [Vineflower](https://github.com/Vineflower/vineflower) | Modern Java decompiler focused on accurate, readable output. | 2.5k | 2026-11-17 |  |
+| [BAP](https://github.com/BinaryAnalysisPlatform/bap) | Binary Analysis Platform for program analysis and lifting. | 2.3k | 2026-05-07 |  |
+| [redasm](https://github.com/redasm-dev/redasm) | Open-source interactive disassembler. | 1.8k | 2026-11-25 |  |
+| [heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) | EVM smart-contract bytecode analysis and decompilation toolkit written in Rust. | 1.6k | 2026-11-22 |  |
+| [rz-ghidra](https://github.com/rizinorg/rz-ghidra) | Ghidra decompiler and Sleigh disassembler integration for Rizin. | 1k | 2026-11-24 |  |
 | [Kuna](https://github.com/Noelo-Lab/kuna) | Agent-first decompiler in Rust, originally ported from Ghidra. | 975 | 2026-11-25 | 6 |
+| [Falcon](https://github.com/falconre/falcon) | Binary analysis framework written in Rust. | 594 | 2026-03-24 |  |
+| [Oxidizer](https://github.com/sefcom/oxidizer) | Rust-oriented decompiler built on angr that recovers enums, match and macros. | 555 | 2026-09-08 |  |
 
 ### Debuggers and Dynamic Analysis
 
@@ -250,7 +286,24 @@ What people use to take things apart.
 | --- | --- | ---: | --- | ---: |
 | [x64dbg](https://github.com/x64dbg/x64dbg) | User mode debugger for Windows. | 50.4k | 2026-11-22 | 8 |
 | [Frida](https://github.com/frida/frida) | Dynamic instrumentation toolkit. | 22.9k | 2026-11-23 | 8 |
+| [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) | Modular visual dashboard for GDB sessions. | 12.3k | 2026-07-17 |  |
+| [pwndbg](https://github.com/pwndbg/pwndbg) | GDB and LLDB plugin suite aimed at reverse engineering and exploit development. | 11.2k | 2026-11-25 |  |
+| [rr](https://github.com/rr-debugger/rr) | Record and replay debugger for deterministic reverse engineering. | 10.8k | 2026-11-25 |  |
+| [angr](https://github.com/angr/angr) | Binary analysis platform with symbolic execution and decompilation. | 9.4k | 2026-11-25 |  |
+| [GEF](https://github.com/hugsy/gef) | GDB Enhanced Features plugin for reverse engineering and exploit work. | 8.4k | 2026-11-24 |  |
 | [capa](https://github.com/mandiant/capa) | Identifies capabilities in executable files. | 6.4k | 2026-11-24 | 8 |
+| [Qiling](https://github.com/qilingframework/qiling) | Instrumentable binary emulation framework across OS and architectures. | 6.2k | 2026-10-23 |  |
+| [Volatility 3](https://github.com/volatilityfoundation/volatility3) | Memory forensics framework for analyzing captured system memory. | 4.6k | 2026-11-22 |  |
+| [Triton](https://github.com/JonathanSalwan/Triton) | Dynamic binary analysis library with symbolic execution support. | 4.4k | 2026-11-11 |  |
+| [HyperDbg](https://github.com/HyperDbg/HyperDbg) | Hypervisor-assisted native debugger for Windows. | 4.2k | 2026-11-17 |  |
+| [pe-sieve](https://github.com/hasherezade/pe-sieve) | Scans a live process and dumps implanted or modified PE modules. | 4k | 2026-11-08 |  |
+| [DynamoRIO](https://github.com/DynamoRIO/dynamorio) | Dynamic binary instrumentation platform for runtime analysis. | 3.2k | 2026-11-25 |  |
+| [PINCE](https://github.com/korcankaraokcu/PINCE) | Front-end reverse engineering tool for Linux built around GDB. | 3.2k | 2026-09-18 |  |
+| [LibAFL](https://github.com/AFLplusplus/LibAFL) | Modular fuzzing library written in Rust for building custom binary fuzzers. | 2.7k | 2026-11-22 |  |
+| [ret-sync](https://github.com/bootleg/ret-sync) | Plugins that synchronize a debugger session with a disassembler view. | 2.4k | 2026-02-15 |  |
+| [QBDI](https://github.com/QBDI/QBDI) | Dynamic binary instrumentation framework based on LLVM. | 1.8k | 2026-09-02 |  |
+| [r2frida](https://github.com/nowsecure/r2frida) | Bridge that combines radare2 analysis with Frida instrumentation. | 1.5k | 2026-11-25 |  |
+| [memflow](https://github.com/memflow/memflow) | Physical memory introspection framework written in Rust. | 1.1k | 2026-04-24 |  |
 
 ### Binary and Firmware Inspection
 
@@ -258,6 +311,21 @@ What people use to take things apart.
 | --- | --- | ---: | --- | ---: |
 | [ImHex](https://github.com/WerWolv/ImHex) | Hex editor for reverse engineers. | 56k | 2026-11-25 | 8 |
 | [binwalk](https://github.com/ReFirmLabs/binwalk) | Firmware analysis tool. | 14.7k | 2026-08-11 | 7 |
+| [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) | File type, packer and compiler detector for Windows, Linux and macOS. | 12k | 2026-11-25 |  |
+| [WABT](https://github.com/WebAssembly/wabt) | WebAssembly Binary Toolkit for inspecting and converting Wasm modules. | 8.2k | 2026-11-23 |  |
+| [LIEF](https://github.com/lief-project/LIEF) | Library to parse, modify and abstract ELF, PE, Mach-O and related formats. | 5.7k | 2026-11-17 |  |
+| [FLOSS](https://github.com/mandiant/flare-floss) | Automatically extracts obfuscated strings from malware binaries. | 4.2k | 2026-11-15 |  |
+| [PE-bear](https://github.com/hasherezade/pe-bear) | Portable Executable reversing tool with a GUI. | 3.9k | 2026-11-23 |  |
+| [EMBA](https://github.com/e-m-b-a/emba) | Firmware security analyzer for embedded Linux images. | 3.8k | 2026-11-23 |  |
+| [CHIPSEC](https://github.com/chipsec/chipsec) | Platform security assessment framework for firmware and hardware interfaces. | 3.3k | 2026-11-24 |  |
+| [wasm-tools](https://github.com/bytecodealliance/wasm-tools) | CLI and Rust libraries for low-level WebAssembly module inspection and transforms. | 1.8k | 2026-11-24 |  |
+| [goblin](https://github.com/m4b/goblin) | Cross-platform ELF, PE and Mach-O parsing library written in Rust. | 1.6k | 2026-10-26 |  |
+| [YARA-X](https://github.com/VirusTotal/yara-x) | Rewrite of the YARA pattern-matching engine in Rust. | 1.4k | 2026-11-25 |  |
+| [BinExport](https://github.com/google/binexport) | Exports disassemblies into Protocol Buffers for tool interchange. | 1.2k | 2026-10-27 |  |
+| [gimli](https://github.com/gimli-rs/gimli) | Library for reading and writing the DWARF debugging format in Rust. | 1k | 2026-11-24 |  |
+| [FirmWire](https://github.com/FirmWire/FirmWire) | Full-system baseband firmware emulation platform for analysis and fuzzing. | 898 | 2026-08-20 |  |
+| [symbolic](https://github.com/getsentry/symbolic) | Stack-trace symbolication library written in Rust. | 564 | 2026-11-25 |  |
+| [hashdb](https://github.com/OALabs/hashdb) | Lookup database of hashing algorithms used in malware for API resolution. | 413 | 2026-09-09 |  |
 
 ### Network and API Capture
 
@@ -265,6 +333,7 @@ What people use to take things apart.
 | --- | --- | ---: | --- | ---: |
 | [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Interactive TLS-capable intercepting HTTP proxy. | 47.2k | 2026-11-23 | 7 |
 | [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) | Reverse engineers REST APIs from captured traffic. | 9.7k | 2026-11-23 | 7 |
+| [pbtk](https://github.com/marin-m/pbtk) | Toolkit for reverse engineering and fuzzing Protobuf-based apps. | 1.7k | 2026-11-21 |  |
 
 ### Recompilers and Decomp Toolchains
 
@@ -298,7 +367,7 @@ Projects never leave the list, so it only gets bigger.
 
 | Month | New | Total | |
 | --- | ---: | ---: | --- |
-| 2026-11 | 139 | 139 | ██████████████████████████████ |
+| 2026-11 | 208 | 208 | ██████████████████████████████ |
 
 ## Star History
 
@@ -316,6 +385,6 @@ New entries are welcome. [Open an issue](https://github.com/Never-lab/awesome-re
 
 ## Footnotes
 
-139 projects. Stars last fetched on 2026-11-25. This file is generated from [`data/projects`](data/projects), please do not edit it by hand.
+208 projects. Stars last fetched on 2026-11-25. This file is generated from [`data/projects`](data/projects), please do not edit it by hand.
 
 Health adds up facts GitHub reports, such as license, commits spread over many days, several contributors, open issues and whether the project is archived or quiet. It says nothing about quality. The rules are in [`scripts/scoring.py`](scripts/scoring.py).

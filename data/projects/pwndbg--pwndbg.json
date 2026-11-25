@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "GDB and LLDB plugin suite aimed at reverse engineering and exploit development.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "pwndbg",
+  "url": "https://github.com/pwndbg/pwndbg"
+}

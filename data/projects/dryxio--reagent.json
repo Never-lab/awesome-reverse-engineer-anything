@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "AI workflow that reconstructs and validates C and C++ code from binaries.",
+  "group": "AI Agents and MCP",
+  "name": "reagent",
+  "url": "https://github.com/Dryxio/reagent"
+}

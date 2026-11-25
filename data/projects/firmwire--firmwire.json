@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Full-system baseband firmware emulation platform for analysis and fuzzing.",
+  "group": "Binary and Firmware Inspection",
+  "name": "FirmWire",
+  "url": "https://github.com/FirmWire/FirmWire"
+}

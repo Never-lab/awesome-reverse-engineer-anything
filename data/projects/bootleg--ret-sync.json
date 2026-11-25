@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Plugins that synchronize a debugger session with a disassembler view.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "ret-sync",
+  "url": "https://github.com/bootleg/ret-sync"
+}

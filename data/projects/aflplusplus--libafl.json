@@ -1,0 +1,8 @@
+{
+  "added": "2026-11-25",
+  "category": "tools",
+  "description": "Modular fuzzing library written in Rust for building custom binary fuzzers.",
+  "group": "Debuggers and Dynamic Analysis",
+  "name": "LibAFL",
+  "url": "https://github.com/AFLplusplus/LibAFL"
+}

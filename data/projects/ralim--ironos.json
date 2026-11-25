@@ -1,0 +1,9 @@
+{
+  "added": "2026-11-25",
+  "category": "hardware",
+  "description": "Open-source firmware for popular soldering irons.",
+  "group": "Devices and Firmware",
+  "name": "IronOS",
+  "target": "Pinecil and similar irons",
+  "url": "https://github.com/Ralim/IronOS"
+}
