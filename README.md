@@ -1,8 +1,7 @@
 # Awesome Reverse Engineer Anything [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- links:start -->
-[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=awesome-reverse-engineer-anything)
-[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=awesome-reverse-engineer-anything)
+[![GitHub: Never-lab](https://img.shields.io/badge/GitHub-Never--lab-181717?logo=github)](https://github.com/Never-lab)
 <!-- links:end -->
 
 > Reverse engineering turns a closed program, protocol or device into something you can read, rebuild and run yourself. These are the open projects that did it and the tools they used, with star trends refreshed every day. Only what is hot makes it: at least 500 stars and a commit in the last year to get in, and once a project is in, it stays.
@@ -303,17 +302,17 @@ Projects never leave the list, so it only gets bigger.
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=maluramichael%2Fawesome-reverse-engineer-anything&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=Never-lab%2Fawesome-reverse-engineer-anything&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=maluramichael/awesome-reverse-engineer-anything&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=maluramichael/awesome-reverse-engineer-anything&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=maluramichael/awesome-reverse-engineer-anything&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Never-lab/awesome-reverse-engineer-anything&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Never-lab/awesome-reverse-engineer-anything&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Never-lab/awesome-reverse-engineer-anything&type=date&legend=top-left" />
  </picture>
 </a>
 
 ## Contributing
 
-New entries are welcome. [Open an issue](https://github.com/maluramichael/awesome-reverse-engineer-anything/issues/new?template=add-project.yml) and a bot prepares the pull request, or read the [contribution guidelines](contributing.md).
+New entries are welcome. [Open an issue](https://github.com/Never-lab/awesome-reverse-engineer-anything/issues/new?template=add-project.yml) and a bot prepares the pull request, or read the [contribution guidelines](contributing.md).
 
 ## Footnotes
 

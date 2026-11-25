@@ -7,8 +7,7 @@ from datetime import date, timedelta
 import common
 
 LINKS = """<!-- links:start -->
-[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=awesome-reverse-engineer-anything)
-[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=awesome-reverse-engineer-anything)
+[![GitHub: Never-lab](https://img.shields.io/badge/GitHub-Never--lab-181717?logo=github)](https://github.com/Never-lab)
 <!-- links:end -->"""
 
 INTRO = (
@@ -18,9 +17,9 @@ INTRO = (
     "and a commit in the last year to get in, and once a project is in, it stays."
 )
 
-ISSUE_FORM = "https://github.com/maluramichael/awesome-reverse-engineer-anything/issues/new?template=add-project.yml"
+ISSUE_FORM = "https://github.com/Never-lab/awesome-reverse-engineer-anything/issues/new?template=add-project.yml"
 
-REPO = "maluramichael/awesome-reverse-engineer-anything"
+REPO = "Never-lab/awesome-reverse-engineer-anything"
 STAR_CHART = f"https://api.star-history.com/chart?repos={REPO}&type=date&legend=top-left"
 STAR_PAGE = f"https://www.star-history.com/?repos={REPO.replace('/', '%2F')}&type=date&legend=top-left"
 

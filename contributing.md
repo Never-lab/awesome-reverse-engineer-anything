@@ -2,7 +2,7 @@
 
 ## Add a project
 
-The quickest way is the [Add a project](https://github.com/maluramichael/awesome-reverse-engineer-anything/issues/new?template=add-project.yml) form. A bot checks your answers and opens the pull request for you.
+The quickest way is the [Add a project](https://github.com/Never-lab/awesome-reverse-engineer-anything/issues/new?template=add-project.yml) form. A bot checks your answers and opens the pull request for you.
 
 You can also open a pull request yourself. Add one file to [`data/projects`](data/projects), named `owner--repo.json` in lower case:
 
